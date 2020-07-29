@@ -22,6 +22,7 @@
 <center class = "half">
 <img src="static/gzh.jpg" align = left><img src="static/zs.jpg" width="268" height="268" align = right> 
 </center>
+<br>
 
 # 使用方法
 待补充
