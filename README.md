@@ -1,6 +1,7 @@
 # 简介
 基于requests,xpath,re,html2text开发的一款转换软件,能将博客论坛等文章转换成Markdown格式。
-同时也欢迎大家一起pull，兼容更多的文章ヾ(✿ﾟ▽ﾟ)ノ
+同时也欢迎大家一起pull，兼容更多的文章ヾ(✿ﾟ▽ﾟ)ノ  
+[向作者bug提交](https://github.com/carve-myself/Article2md/issues)
 
 
 # 支持转换  
@@ -20,6 +21,7 @@
 # 公众号
 <img src="static/gzh.jpg"> 
 <img src="static/zs.jpg" width="268" height="268"> 
+
 # 使用方法
 待补充
 
