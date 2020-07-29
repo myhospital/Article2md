@@ -19,7 +19,8 @@
 免费会员: http://tinyurl.com/y5rxfu4v
 
 # 公众号
-<img src="static/gzh.jpg"><img src="static/zs.jpg" width="268" height="268"> 
+<img src="static/gzh.jpg">
+<img src="static/zs.jpg" width="268" height="268"> 
 
 # 使用方法
 待补充
